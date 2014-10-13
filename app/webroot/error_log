@@ -1,0 +1,46 @@
+[10-Sep-2014 15:00:08 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:02:52 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:03:19 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:04:23 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:04:28 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:06:53 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:08:23 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:11 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:15 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:17 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:17 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:17 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:17 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:17 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:17 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:17 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:19 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:22 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:23 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:09:24 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[10-Sep-2014 15:10:28 America/Chicago] PHP Fatal error:  Class 'LogEngineCollection' not found in /home/bodyvibe/public_html/admincms/lib/Cake/Log/CakeLog.php on line 122
+[11-Sep-2014 18:26:22 America/Chicago] PHP Fatal error:  Maximum execution time of 200 seconds exceeded in /home/bodyvibe/public_html/admincms/lib/Cake/Model/Datasource/DboSource.php on line 458
+[11-Sep-2014 18:35:31 America/Chicago] PHP Fatal error:  Maximum execution time of 200 seconds exceeded in /home/bodyvibe/public_html/admincms/lib/Cake/Model/Datasource/DboSource.php on line 0
+[11-Sep-2014 18:43:54 America/Chicago] PHP Fatal error:  Maximum execution time of 200 seconds exceeded in /home/bodyvibe/public_html/admincms/lib/Cake/Model/Datasource/DboSource.php on line 0
+[11-Sep-2014 18:57:21 America/Chicago] PHP Fatal error:  Maximum execution time of 200 seconds exceeded in /home/bodyvibe/public_html/admincms/lib/Cake/Model/Datasource/DboSource.php on line 424
+[19-Sep-2014 08:00:24 America/Chicago] PHP Fatal error:  Call to undefined function month() in /home/bodyvibe/public_html/admincms/app/Controller/UsersController.php on line 156
+[19-Sep-2014 15:49:43 America/Chicago] PHP Warning:  Unterminated comment starting line 203 in /home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php on line 203
+[19-Sep-2014 15:49:43 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php on line 203
+[19-Sep-2014 16:07:00 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php on line 679
+[19-Sep-2014 17:02:23 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php on line 685
+[24-Sep-2014 12:21:44 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bodyvibe/public_html/admincms/app/Controller/OrdersController.php on line 25
+[24-Sep-2014 12:23:43 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bodyvibe/public_html/admincms/app/Controller/OrdersController.php on line 25
+[24-Sep-2014 12:23:45 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bodyvibe/public_html/admincms/app/Controller/OrdersController.php on line 25
+[24-Sep-2014 12:24:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/bodyvibe/public_html/admincms/app/Controller/OrdersController.php on line 25
+[24-Sep-2014 12:25:10 America/Chicago] PHP Parse error:  syntax error, unexpected '(' in /home/bodyvibe/public_html/admincms/app/Controller/OrdersController.php on line 25
+[24-Sep-2014 12:25:31 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/bodyvibe/public_html/admincms/app/Controller/OrdersController.php on line 340
+[24-Sep-2014 12:30:31 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bodyvibe/public_html/admincms/lib/Cake/Utility/Debugger.php on line 483
+[24-Sep-2014 12:31:01 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/bodyvibe/public_html/admincms/lib/Cake/Utility/Debugger.php on line 551
+[30-Sep-2014 14:46:56 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/bodyvibe/public_html/admincms/app/Controller/OrdersController.php on line 65
+[30-Sep-2014 15:23:02 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/bodyvibe/public_html/admincms/app/View/Orders/edit.ctp on line 673
+[30-Sep-2014 16:45:54 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/bodyvibe/public_html/admincms/app/Controller/CustomersController.php on line 128
+[30-Sep-2014 16:45:57 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/bodyvibe/public_html/admincms/app/Controller/CustomersController.php on line 128
+[30-Sep-2014 16:48:33 America/Chicago] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting ')' in /home/bodyvibe/public_html/admincms/app/Controller/CustomersController.php on line 119
+[01-Oct-2014 09:49:43 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/bodyvibe/public_html/admincms/app/Controller/CustomersController.php on line 75
+[01-Oct-2014 10:57:27 America/Chicago] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/bodyvibe/public_html/admincms/app/View/Customers/edit.ctp on line 160
+[01-Oct-2014 10:58:23 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/bodyvibe/public_html/admincms/app/View/Customers/edit.ctp on line 226

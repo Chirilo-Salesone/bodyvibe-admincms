@@ -1,0 +1,294 @@
+<modify-entry
+   name="myapp_cake_core_cake_console_eng"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="myapp_cake_core_cake_console_eng"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="myapp_cake_core_cake_console_eng"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="myapp_cake_core_cake_console_eng"
+   name=".svn/tmp/text-base/myapp_cake_core_cake_console_eng.svn-base"/>
+<mv
+   dest=".svn/text-base/myapp_cake_core_cake_console_eng.svn-base"
+   name=".svn/tmp/text-base/myapp_cake_core_cake_console_eng.svn-base"/>
+<readonly
+   name=".svn/text-base/myapp_cake_core_cake_console_eng.svn-base"/>
+<modify-entry
+   name="myapp_cake_core_cake_console_eng"
+   checksum="f7ec16eddff9f7b4743bf886c8418bd8"/>
+<modify-entry
+   name="myapp_cake_core_cake_console_eng"
+   text-time="working"/>
+<modify-entry
+   name="myapp_cake_core_cake_console_eng"
+   working-size="working"/>
+<modify-entry
+   name="myapp_cake_core_method_cache"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="myapp_cake_core_method_cache"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="myapp_cake_core_method_cache"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="myapp_cake_core_method_cache"
+   name=".svn/tmp/text-base/myapp_cake_core_method_cache.svn-base"/>
+<mv
+   dest=".svn/text-base/myapp_cake_core_method_cache.svn-base"
+   name=".svn/tmp/text-base/myapp_cake_core_method_cache.svn-base"/>
+<readonly
+   name=".svn/text-base/myapp_cake_core_method_cache.svn-base"/>
+<modify-entry
+   name="myapp_cake_core_method_cache"
+   checksum="dec0e978f7637fef169d3e43cfd81e67"/>
+<modify-entry
+   name="myapp_cake_core_method_cache"
+   text-time="working"/>
+<modify-entry
+   name="myapp_cake_core_method_cache"
+   working-size="working"/>
+<modify-entry
+   name="myapp_cake_core_debug_kit_en-us"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="myapp_cake_core_debug_kit_en-us"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="myapp_cake_core_debug_kit_en-us"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="myapp_cake_core_debug_kit_en-us"
+   name=".svn/tmp/text-base/myapp_cake_core_debug_kit_en-us.svn-base"/>
+<mv
+   dest=".svn/text-base/myapp_cake_core_debug_kit_en-us.svn-base"
+   name=".svn/tmp/text-base/myapp_cake_core_debug_kit_en-us.svn-base"/>
+<readonly
+   name=".svn/text-base/myapp_cake_core_debug_kit_en-us.svn-base"/>
+<modify-entry
+   name="myapp_cake_core_debug_kit_en-us"
+   checksum="33dfaa2df14643fb9b2d9e5bcc89aa3b"/>
+<modify-entry
+   name="myapp_cake_core_debug_kit_en-us"
+   text-time="working"/>
+<modify-entry
+   name="myapp_cake_core_debug_kit_en-us"
+   working-size="working"/>
+<modify-entry
+   name="myapp_cake_core_cake_dev_en-us"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="myapp_cake_core_cake_dev_en-us"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="myapp_cake_core_cake_dev_en-us"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="myapp_cake_core_cake_dev_en-us"
+   name=".svn/tmp/text-base/myapp_cake_core_cake_dev_en-us.svn-base"/>
+<mv
+   dest=".svn/text-base/myapp_cake_core_cake_dev_en-us.svn-base"
+   name=".svn/tmp/text-base/myapp_cake_core_cake_dev_en-us.svn-base"/>
+<readonly
+   name=".svn/text-base/myapp_cake_core_cake_dev_en-us.svn-base"/>
+<modify-entry
+   name="myapp_cake_core_cake_dev_en-us"
+   checksum="f092822ddaf48e675fc6c1300b1b4931"/>
+<modify-entry
+   name="myapp_cake_core_cake_dev_en-us"
+   text-time="working"/>
+<modify-entry
+   name="myapp_cake_core_cake_dev_en-us"
+   working-size="working"/>
+<modify-entry
+   name="myapp_cake_core_cake_en-us"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="myapp_cake_core_cake_en-us"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="myapp_cake_core_cake_en-us"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="myapp_cake_core_cake_en-us"
+   name=".svn/tmp/text-base/myapp_cake_core_cake_en-us.svn-base"/>
+<mv
+   dest=".svn/text-base/myapp_cake_core_cake_en-us.svn-base"
+   name=".svn/tmp/text-base/myapp_cake_core_cake_en-us.svn-base"/>
+<readonly
+   name=".svn/text-base/myapp_cake_core_cake_en-us.svn-base"/>
+<modify-entry
+   name="myapp_cake_core_cake_en-us"
+   checksum="f092822ddaf48e675fc6c1300b1b4931"/>
+<modify-entry
+   name="myapp_cake_core_cake_en-us"
+   text-time="working"/>
+<modify-entry
+   name="myapp_cake_core_cake_en-us"
+   working-size="working"/>
+<modify-entry
+   name="myapp_cake_core_default_en-us"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="myapp_cake_core_default_en-us"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="myapp_cake_core_default_en-us"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="myapp_cake_core_default_en-us"
+   name=".svn/tmp/text-base/myapp_cake_core_default_en-us.svn-base"/>
+<mv
+   dest=".svn/text-base/myapp_cake_core_default_en-us.svn-base"
+   name=".svn/tmp/text-base/myapp_cake_core_default_en-us.svn-base"/>
+<readonly
+   name=".svn/text-base/myapp_cake_core_default_en-us.svn-base"/>
+<modify-entry
+   name="myapp_cake_core_default_en-us"
+   checksum="e4c540cf03fef850ae3816a4a39b1e6e"/>
+<modify-entry
+   name="myapp_cake_core_default_en-us"
+   text-time="working"/>
+<modify-entry
+   name="myapp_cake_core_default_en-us"
+   working-size="working"/>
+<modify-entry
+   name="myapp_cake_core_file_map"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="myapp_cake_core_file_map"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="myapp_cake_core_file_map"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="myapp_cake_core_file_map"
+   name=".svn/tmp/text-base/myapp_cake_core_file_map.svn-base"/>
+<mv
+   dest=".svn/text-base/myapp_cake_core_file_map.svn-base"
+   name=".svn/tmp/text-base/myapp_cake_core_file_map.svn-base"/>
+<readonly
+   name=".svn/text-base/myapp_cake_core_file_map.svn-base"/>
+<modify-entry
+   name="myapp_cake_core_file_map"
+   checksum="5b9e0ed7efbf2d30402449fa61f570c3"/>
+<modify-entry
+   name="myapp_cake_core_file_map"
+   text-time="working"/>
+<modify-entry
+   name="myapp_cake_core_file_map"
+   working-size="working"/>
+<modify-entry
+   name="empty"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name="empty"
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="empty"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="145"/>
+<cp-and-translate
+   dest="empty"
+   name=".svn/tmp/text-base/empty.svn-base"/>
+<mv
+   dest=".svn/text-base/empty.svn-base"
+   name=".svn/tmp/text-base/empty.svn-base"/>
+<readonly
+   name=".svn/text-base/empty.svn-base"/>
+<modify-entry
+   name="empty"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"/>
+<modify-entry
+   name="empty"
+   text-time="working"/>
+<modify-entry
+   name="empty"
+   working-size="working"/>
+<modify-entry
+   committed-rev="145"
+   committed-date="2014-01-23T13:49:43.273520Z"
+   name=""
+   last-author="roderick"
+   uuid="43f0e4f7-7607-784d-9501-bdef75ebf85d"/>

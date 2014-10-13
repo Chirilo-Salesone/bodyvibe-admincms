@@ -1,0 +1,221 @@
+body {
+
+	/*background-color:#0F2530;*/
+	background-color:#fff;
+}
+
+
+#content{
+
+	background: #fff;
+	clear: both;
+	color: #333;
+	overflow: auto;
+
+}
+
+
+/* remove extra horizontal scroll bar */
+div.container-fluid{
+
+	padding: 0 15px;
+
+}
+
+#admin-left-menu {
+
+	background:#ddd;
+	color:#000;
+	font-size: 12px;
+
+}
+
+div.container-fluid {
+
+	background:#fff;
+}
+
+#admin-header {
+
+	font-weight:bold;
+	color:#fff;
+	height: 40px;
+	background-color:#aaa;
+}
+
+#admin-content-wrapper {
+
+	padding: 20px 0;
+}
+
+#admin-content {
+
+	color:#000;
+}
+
+
+.panel-group .panel {
+
+	margin-bottom: -6px;
+}
+
+
+#admin-left-menu .panel-group h4 a {
+	display:block;
+	margin: 0px;
+	padding: 10px;
+	color:#0397D6;
+	font-size: 90%;
+	font-weight: bold;
+	background-color:#fff;
+	text-decoration:none;
+
+}
+#admin-left-menu .panel-group h4 a:hover {
+
+	text-decoration:none;
+	background-color:#0397D6;
+	font-size: 90%;
+	font-weight: bold;
+	color:#fff;
+
+}
+
+
+
+#admin-left-menu .panel-default > .panel-heading {
+
+	padding: 0px;	
+}
+
+.navbar-inverse {
+
+	border:0px;
+
+
+}
+
+
+/* dropdown customization */
+
+.dropdown .dropdown-header {
+	font-size: 14px;
+	color:#000;
+
+}
+
+
+/* admin listing */
+table.custom-admin-listing td {
+	font-size: 11px;
+	font-family:Verdana,Arial;
+}
+
+.row-option {
+
+	width: 100px;
+}
+
+
+
+/* form settings */
+
+	form.admin-forms {
+
+		
+
+	}
+
+	form.admin-forms label {
+
+		display:block;
+	}
+
+	form.admin-forms input[type='text']{
+
+		height: 40px;
+		line-height: 20px;
+		font-size: 12px;
+		width: 40%;
+		border:1px solid #dedede;
+		border-radius: 3px;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		-o-border-radius: 3px;
+		-ms-border-radius: 3px;
+		padding: 0 10px;
+
+	}
+	
+	form.admin-forms textarea{
+
+		width: 90%;
+		line-height: 20px;
+		border:1px solid #dedede;
+		line-height: 20px;
+		font-size: 12px;		
+		border-radius: 3px;
+		-moz-border-radius: 3px;
+		-webkit-border-radius: 3px;
+		-o-border-radius: 3px;
+		-ms-border-radius: 3px;	
+		padding: 5px;	
+	}
+
+	form.admin-forms div.input{
+
+		margin-bottom: 20px;
+	}
+
+	form.admin-forms select{
+
+		padding: 5px;
+		width: 200px;
+	}
+
+
+
+/* form settings */
+
+
+
+
+/* messages */
+
+div.success_message {
+
+  
+  background-color:#3B8230;
+  background-image:-webkit-linear-gradient(top, #76BF6B, #3B8230);
+  background-position:initial initial;
+  background-repeat:repeat no-repeat;
+  border:1px solid rgba(0, 0, 0, 0.498039);
+  border-radius: 4px;
+  clear:both;
+  color:#FFFFFF;
+  text-shadow:rgba(0, 0, 0, 0.298039) 0 -1px 0;
+  display:block;
+  font-size:120%;
+  margin:1em 0;
+  padding:0.8em;
+  font-family:'lucida grande', verdana, helvetica, arial, sans-serif;  
+}
+
+div.failed_message{
+	background-color:#C43C35;
+	background-image:-webkit-linear-gradient(top, #EE5F5B, #C43C35);
+	background-position:initial initial;
+	background-repeat:repeat no-repeat;
+	border:1px solid rgba(0, 0, 0, 0.498039);
+	border-radius: 4px;
+	clear:both;
+	color:#FFFFFF;
+	text-shadow:rgba(0, 0, 0, 0.298039) 0 -1px 0;
+	display:block;
+	font-size:120%;
+	margin:1em 0;
+	padding:0.8em;
+	font-family:'lucida grande', verdana, helvetica, arial, sans-serif;  	
+}
+div.failed_message span.black-span { color:#000 ;}
+/* messages */

@@ -1,0 +1,32 @@
+<?php
+App::uses('AppModel', 'Model');
+/**
+ * Admin Model
+ *
+ */
+class Admin extends AppModel {
+
+/**
+ * Use table
+ *
+ * @var mixed False or table name
+ */
+	public $useTable = 'admin';
+
+
+	public $validate = array(
+	        'username' => array(
+	            'required' => array(
+	                'rule' => array('notEmpty'),
+	                'message' => 'A username is required'
+	            )
+	        ),
+	        'password' => array(
+	            'required' => array(
+	                'rule' => array('notEmpty'),
+	                'message' => 'A password is required'
+	            )
+	        )
+	);    	
+
+}

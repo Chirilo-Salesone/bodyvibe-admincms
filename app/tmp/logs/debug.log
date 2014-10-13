@@ -1,0 +1,537 @@
+2014-09-10 16:48:36 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 16:50:34 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 16:52:45 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 16:58:35 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 16:59:00 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:00:43 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:02:22 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:04:09 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:10:25 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:27:40 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:29:51 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:42:51 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:50:21 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 17:55:23 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 18:00:40 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 18:04:27 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 18:05:01 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-10 18:31:12 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-11 08:52:02 Notice: Notice (8): Undefined index: Product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 743]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 743
+UploadsController::products() - APP/Controller/UploadsController.php, line 925
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-12 10:58:46 Notice: Notice (8): Undefined index: Bodyvibe Catalog 2013 in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-12 10:58:57 Notice: Notice (8): Undefined index: 2012 Catalog in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-12 11:00:02 Notice: Notice (8): Undefined index: Bodyvibe Fall 2011 Catalog in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-12 11:02:04 Notice: Notice (8): Undefined index: body jewelry book catalog in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-12 11:59:28 Notice: Notice (8): Undefined index: Organics Catalog 2014 in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-12 12:35:46 Notice: Notice (8): Undefined index: BodyVibe Catalog 2011 in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 18:46:54 Notice: Notice (8): Undefined index: Bodyvibe Catalog 2013 in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 18:53:13 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 18:53:23 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 18:54:20 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 18:55:38 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 18:56:04 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:21:12 Notice: Notice (8): Undefined index: Organics Catalog 2014 in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:21:45 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:21:53 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:22:00 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:22:06 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:22:10 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:22:16 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-15 19:22:34 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-16 16:09:03 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-16 16:09:19 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-17 07:56:48 Notice: Notice (8): Use of undefined constant php - assumed 'php' in [/home/bodyvibe/public_html/admincms/app/View/Carts/edit.ctp, line 359]
+Trace:
+include - APP/View/Carts/edit.ctp, line 359
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-17 08:35:50 Notice: Notice (8): Use of undefined constant php - assumed 'php' in [/home/bodyvibe/public_html/admincms/app/View/Carts/edit.ctp, line 359]
+Trace:
+include - APP/View/Carts/edit.ctp, line 359
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-17 10:59:18 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-17 16:38:21 Notice: Notice (8): Undefined index: catalog_product in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 972]
+Trace:
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 972
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-18 05:08:00 Notice: Notice (8): Undefined index: body jewelry book catalog in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-18 05:11:31 Notice: Notice (8): Undefined index: BodyVibe Catalog 2011 in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-18 05:12:10 Notice: Notice (8): Undefined index: 2012 Catalog in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-18 05:13:30 Notice: Notice (8): Undefined index: Bodyvibe Fall 2011 Catalog in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-18 07:08:33 Notice: Notice (8): Use of undefined constant php - assumed 'php' in [/home/bodyvibe/public_html/admincms/app/View/Carts/edit.ctp, line 359]
+Trace:
+include - APP/View/Carts/edit.ctp, line 359
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-18 07:08:58 Notice: Notice (8): Use of undefined constant php - assumed 'php' in [/home/bodyvibe/public_html/admincms/app/View/Carts/edit.ctp, line 359]
+Trace:
+include - APP/View/Carts/edit.ctp, line 359
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2014-09-18 13:06:45 Notice: Notice (8): Undefined index: Bodyvibe Fall 2011 Catalog in [/home/bodyvibe/public_html/admincms/app/Controller/UploadsController.php, line 333]
+Trace:
+UploadsController::addCatalogProduct() - APP/Controller/UploadsController.php, line 333
+UploadsController::productUpload() - APP/Controller/UploadsController.php, line 929
+UploadsController::products() - APP/Controller/UploadsController.php, line 1059
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+

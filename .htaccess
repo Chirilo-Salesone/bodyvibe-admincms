@@ -1,0 +1,8 @@
+Options -Indexes
+
+RewriteBase /hmvc/admincms/
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule    ^$ app/webroot/    [L]
+RewriteRule    (.*) app/webroot/$1 [L]

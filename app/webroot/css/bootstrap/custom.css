@@ -1,0 +1,43 @@
+/*
+body {
+	padding: 0px;
+	background: url(images/full-background.jpg) #010101 top center no-repeat;    
+}
+*/
+
+
+div.custom-content {
+	width: 100%;
+	margin: 0 auto;
+	background-color:#3D3D3D;
+	color:#eee;
+	font-size: 12px;
+	text-align:center;
+	min-height: 40px;
+	margin-bottom: 10px;
+
+}
+
+
+/*div.row {margin: 1.5em -7.5px}
+*/
+/* overriding gutter padding, width 
+*/
+[class*="col-"] {padding: 0 2.5px;}
+
+
+div#admin-header {
+
+}
+
+div#admin-left-menu {
+
+	background-color:#bbb;
+	color:#fff;
+}
+
+div#admin-content {
+
+	background-color:#000;
+	color:#fff;
+}
